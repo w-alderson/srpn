@@ -6,18 +6,11 @@ SRPN is made up of 4 classes, SRPN (includes main function), Claculation, Stack 
 
 The program is an adaptation of a Reverse Polish Calculator. The first digits entered should be numbers (digits) followed by the operations you wish to carry out. The supported operations are as followed:
 
-> '+' for addition
-> '-' for subtraction
-> '\\' for division
-> '*' for multiplication
-> '^' for power
-> '%' for remainder
+> '+' for addition <br/>'-' for subtraction  <br/>'\\' for division  <br/>'*' for multiplication  <br/>'^' for power  <br/>'%' for remainder
 
 Other useful commands include:
 
-> 'd' for displaying the top value of the stack
-> '#' for adding comments
-> '=' for displaying the answer
+> 'd' for displaying the top value of the stack  <br/>'#' for adding comments  <br/>'=' for displaying the answer
 
 ## SRPN.java
 
